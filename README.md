@@ -1,3 +1,6 @@
+# 🦆 Tacordack
+
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E3ZjZhNTZ1NGJnaDdrNWVnaTkxbDNvaHAxNHpmNHNvYXl3bzRneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y0zTJ7VrKo9P2/giphy.webp)
 
 # 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Tacordack) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Tacordack) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Tacordack) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Tacordack) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Tacordack) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tacordack) 
